@@ -1,3 +1,4 @@
 lng,lat,datum,zeit_von,zeit_bis,beteiligte,anzahl_beteiligte,arbeitsmodus,grund,anzahlkinder,bemerkung,datum_erfassung,deleted
 47,7,2023-03-29,14.5,17.5,Andreas,1,aufsuchend,partizipativ,5,testbemerkung,2023-03-29,FALSE
 NA,NA,2023-03-29,14,17,NA,NA,NA,partizipativer Prozess (Kinder),4,NA,2023-03-29,FALSE
+NA,NA,2023-03-29,14,17,NA,NA,NA,partizipativer Prozess (Kinder),4,"das ist ein test, pusht das wirklich?",2023-03-29,FALSE
